@@ -6,6 +6,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/elgohr/go-localstack)](https://goreportcard.com/report/github.com/elgohr/go-localstack)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/elgohr/go-localstack)](https://pkg.go.dev/github.com/elgohr/go-localstack)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/gojp/goreportcard/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPowerCoSE%2Fgo-localstack.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPowerCoSE%2Fgo-localstack?ref=badge_shield)
 
 Go Wrapper for using [localstack](https://github.com/localstack/localstack) in go testing
 
@@ -111,3 +112,7 @@ func TestWithLocalStack(t *testing.T) {
 }
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPowerCoSE%2Fgo-localstack.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPowerCoSE%2Fgo-localstack?ref=badge_large)
